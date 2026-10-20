@@ -1,8 +1,0 @@
-Airbnb Price Regression — held-out test set
-Rows used: 48,884
-Training rows: 39,107
-Test rows: 9,777
-Features: latitude, longitude, minimum_nights, number_of_reviews, reviews_per_month, calculated_host_listings_count, availability_365, neighbourhood_group, neighbourhood, room_type
-MAE: 55.7822
-RMSE: 177.2517
-R2: 0.215251
